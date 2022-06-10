@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/sh
 
 echo "Starting hello-java app..."
 echo "JVM options => $JAVA_OPTIONS"
